@@ -197,6 +197,13 @@ pre {
     color: #999;
     font-size: 90%;
     margin-top: -10px;
+    font-family: monospace;
+}
+
+.post-tag {
+    color: #999;
+    font-size: 90%;
+    margin-top: -10px;
 }
 
 .post-category {
